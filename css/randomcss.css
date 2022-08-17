@@ -1,0 +1,74 @@
+/* Header */
+header{
+  background-color: #FFFF00;
+  width: 100%;
+  height: 100px
+}
+/* Footer */
+footer{
+  background-color: #FF9900;
+  width: 100%;
+  height: 100px
+}
+/* Tabel */
+table{
+  border-width: medium;
+  border-style: solid;
+  width: auto;
+}
+#w1{
+  background-color: #00FFFF;
+  border-style: solid;
+}
+#w2{
+  background-color: #00CCFF;
+  border-style: solid;
+}
+#w3{
+  background-color: #0099FF;
+  border-style: solid;
+}
+#w4{
+  background-color: #0066FF;
+  border-style: solid;
+}
+#w5{
+  background-color: #00FF99;
+  border-style: solid;
+}
+#w6{
+  background-color: #00CC99;
+  border-style: solid;
+}
+#w7{
+  background-color: #009999;
+  border-style: solid;
+}
+#w8{
+  background-color: #006699;
+  border-style: solid;
+}
+#i1{
+  border-style: solid;
+}
+#i2{
+  border-style: solid;
+}
+#i3{
+  border-style: solid;
+}
+#i4{
+  border-style: solid;
+}
+#i5{
+  border-style: solid;
+}
+#i6{
+  border-style: solid;
+}
+#i7{
+  border-style: solid;
+}
+#i8{
+  border-style: solid;
+}
